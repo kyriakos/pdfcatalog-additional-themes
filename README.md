@@ -1,10 +1,11 @@
 Additional PDF Templates for PDF Catalog for WooCommerce plugin
 ---------------------------------------------------------------
 
-This repository contains templates (only one for now) which can be used with [PDF Product Catalog for WooCommerce](http://bit.ly/woopdf).
+This repository contains templates (only two for now) which can be used with [PDF Product Catalog for WooCommerce](http://bit.ly/woopdf). There are either experimental or based on examples requested by users who bought the plugin.
 
 PDF Catalog for WooCommerce is a plugin for WordPress which generates product catalogs on demand in PDF from WooCommerce based stores. Follow the link above for more details. 
 
 **Templates**
 
  - thumbnaillistvar - Thumbnail List with Variations (with Price and SKU for each product variation)
+ - thumbgrid-custom-fonts - Thumbnail Grid using Google Fonts (Roboto in this case). You can change the font by editing the font URLs in beforeCatalog.php and header.php. You will need to replace any references to Roboto in style.css and bootstrap.min.css.

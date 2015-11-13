@@ -1,0 +1,1 @@
+<?php $templates['thumbgrid-custom-fonts']  = array('Thumbnail Grid with Google Fonts', '2-Column product thumbnail grid with title and price. Modified to use custom web fonts');
