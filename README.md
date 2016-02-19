@@ -10,6 +10,7 @@ PDF Catalog for WooCommerce is a plugin for WordPress which generates product ca
  - thumbnaillistvar - Thumbnail List with Variations (with Price and SKU for each product variation)
  - thumbgrid-custom-fonts - Thumbnail Grid using Google Fonts (Roboto in this case). You can change the font by editing the font URLs in beforeCatalog.php and header.php. You will need to replace any references to Roboto in style.css and bootstrap.min.css.
  - thumbnaillistattr - Thumbnail List with all Product Attributes in a Table layout
+ - fourcolumns-table - A modified version of the default 4-columns grid, using tables instead of floated divs. This fixes the problem with orphan category titles (pushes titles to the next page in case the next row of products does not fit the same page). 
  
  
 **How to use**

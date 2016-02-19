@@ -1,0 +1,1 @@
+<?php $templates['fourcolumns-table']  = array('4-Column Grid (Table Based)', '4 column product thumbnail grid three columns with title and optional price, SKU, description and variations.');
